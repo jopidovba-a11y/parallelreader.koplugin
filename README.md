@@ -23,7 +23,8 @@ A Koreader plugin that lets you read two documents side by side.
 1. Download and unzip the realease file.
 2. Copy `parallelreader.koplugin` into your KOReader `plugins` folder.
 3. Restart KOReader.
-Open **Parallel Reader** from the `tools` menu.
+   
+Open **Parallel Reader** from the `tools` menu (the option only appears in the main dashboard, if a book is opened it won't appear)
 
 ## Notes
 
