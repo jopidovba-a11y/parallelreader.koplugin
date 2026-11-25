@@ -9,6 +9,7 @@ A Koreader plugin that lets you read two documents side by side.
     </td>
   </tr>
 </table>
+
 ## Features
 
 - Open two documents simultaneously in separate panels.
