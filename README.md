@@ -17,6 +17,7 @@ A Koreader plugin that lets you read two documents side by side.
 - Text selection and annotations.
 - Zoom controls for paged documents.
 - Panel management and orientation options.
+- **NEW:** [InkAway](https://github.com/EmirErtorer/ink-away.koplugin) integration
 
 ## Installation
 
@@ -26,7 +27,5 @@ A Koreader plugin that lets you read two documents side by side.
    
 Open **Parallel Reader** from the `tools` menu (the option only appears in the main dashboard, if a book is opened it won't appear)
 
-## Notes
 
-This plugin is still experimental. Some features may behave differently depending on the document format and device.
 
